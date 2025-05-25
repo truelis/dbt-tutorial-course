@@ -2,3 +2,5 @@
 .user.yml
 /logs
 logs
+extensions.json
+settings.json
