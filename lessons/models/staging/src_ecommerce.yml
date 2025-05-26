@@ -9,3 +9,6 @@ sources:
       - name: products
       - name: order_items
       - name: inventory_items
+
+test
+
